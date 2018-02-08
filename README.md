@@ -13,6 +13,16 @@ In einem [Brainstorming](Brainstorming.md) haben wir weitere Features ausgedacht
 
 Da wir die Lösung mit dem [Raspberry Pi 3](Präsentationen/Raspberry%20Hardware.pptx) umsetzen möchten, haben wir uns diesen schon mal angeschaut, aufgebaut und die Software aktualisiert (`sudo apt-get update` und `sudo apt-get upgrade`).
 
+Hausaufgaben:
+
+* Fotofreigabe von Eltern unterschreiben lassen
+* Material für ein Physik-Experiemnt sammeln
+* Github Account anlegen
+
 ## 2. Nachmittag
 
 Am zweiten Nachmittag haben wir uns mit [Linux](Präsentationen/Linux.pptx) etwas vertrauter gemacht und die Shell [Bash](Präsentationen/Bash.pptx) ausprobiert. Dieses Wissen benötigen wir, um den Raspberry Pi einzurichten, die Entwicklungsumgebung zu installieren und Programme auszuführen.
+
+Freiwillige Hausaufgabe:
+
+* Linux in einer [virtuellen Maschine](VirtualMachine.md) ausprobieren
