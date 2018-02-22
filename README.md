@@ -16,7 +16,7 @@ Da wir die Lösung mit dem [Raspberry Pi 3](Präsentationen/Raspberry%20Hardware
 Hausaufgaben:
 
 * Fotofreigabe von Eltern unterschreiben lassen
-* Material für ein Physik-Experiemnt sammeln
+* Material für ein Physik-Experiment sammeln
 * Github Account anlegen
 
 ## 2. Nachmittag
@@ -29,8 +29,9 @@ Freiwillige Hausaufgabe:
 
 ## 3. Nachmittag
 
-Der dritte Nachmittag beschäftigte sich mit der Installation der Entwicklungsumgebung (IDE) [PyCharm](Präsentationen/Pycharm.pptx). Nachdem wir das geschafft hatten, haben wir uns die Programmiersprache Python angeschaut und erste kleine Übungsprogramme in PyCharm editiert.
+Der dritte Nachmittag beschäftigte sich mit der Installation der Entwicklungsumgebung (IDE) [PyCharm](Präsentationen/Pycharm.pptx). Nachdem wir das geschafft hatten, haben wir uns die Programmiersprache [Python](Präsentationen/Python%20Einführung.pptx) angeschaut und erste kleine Übungsprogramme in PyCharm editiert.
 
 Hausaufgaben:
 
 * Pycharm für Windows [installieren](https://www.jetbrains.com/pycharm/)
+* Löse die [Python Aufgaben](Hausaufgaben/Python Hausaufgaben 1.md), entweder in PyCharm oder auf einer Online-Seite wie [Online GDB](https://www.onlinegdb.com/online_python_debugger) oder [ideone.com](https://www.ideone.com/)
