@@ -34,4 +34,4 @@ Der dritte Nachmittag beschäftigte sich mit der Installation der Entwicklungsum
 Hausaufgaben:
 
 * Pycharm für Windows [installieren](https://www.jetbrains.com/pycharm/)
-* Löse die [Python Aufgaben](Hausaufgaben/Python Hausaufgaben 1.md), entweder in PyCharm oder auf einer Online-Seite wie [Online GDB](https://www.onlinegdb.com/online_python_debugger) oder [ideone.com](https://www.ideone.com/)
+* Löse die [Python Aufgaben](Hausaufgaben/Python%20Hausaufgaben%201.md), entweder in PyCharm oder auf einer Online-Seite wie [Online GDB](https://www.onlinegdb.com/online_python_debugger) oder [ideone.com](https://www.ideone.com/)
