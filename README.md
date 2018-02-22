@@ -26,3 +26,11 @@ Am zweiten Nachmittag haben wir uns mit [Linux](Präsentationen/Linux.pptx) etwa
 Freiwillige Hausaufgabe:
 
 * Linux in einer [virtuellen Maschine](VirtualMachine.md) ausprobieren
+
+## 3. Nachmittag
+
+Der dritte Nachmittag beschäftigte sich mit der Installation der Entwicklungsumgebung (IDE) [PyCharm](Präsentationen/Pycharm.pptx). Nachdem wir das geschafft hatten, haben wir uns die Programmiersprache Python angeschaut und erste kleine Übungsprogramme in PyCharm editiert.
+
+Hausaufgaben:
+
+* Pycharm für Windows [installieren](https://www.jetbrains.com/pycharm/)
