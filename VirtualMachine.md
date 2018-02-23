@@ -13,5 +13,6 @@ Unser Raspberry verwendet Raspbian als Betriebssystem. Raspbian ist eine Abwandl
 
 Downloads:
 
+* [Debian mit Raspberry Oberfläche](https://www.raspberrypi.org/downloads/raspberry-pi-desktop/) (kostenlos), ca. 2300 MB, zum selbst installieren für VirtualBox
 * [Debian CD](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-9.3.0-amd64-xfce-CD-1.iso) (kostenlos), ca. 650 MB, incl. XFCE Desktop zum selbst installieren für VirtualBox
 * [Debian Virtual PC](https://www.osboxes.org/debian/) (kostenlos), ca. 1050 MB, fertig installierter virtueller PC für VMWare Player
