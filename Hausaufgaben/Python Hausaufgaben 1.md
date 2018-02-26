@@ -8,6 +8,8 @@ Zahlenbereich: 2 bis 400
 
 Mindestens eine Lösung gibt es: `3²+4²=5²`
 
+Versuche, doppelte Lösungen zu vermeiden (z.B. `4²+3²=5²`).
+
 ## Gleiche Potenzen
 
 Finde durch Ausprobieren aller Möglichkeiten (verwende Schleifen) heraus, welche Potenzen den gleichen Wert liefern. Gib alle gültigen Ergebnisse in der Form `a^b=c^d`, wobei a, b und c durch die tatsächlichen Zahlen ersetzt werden.
