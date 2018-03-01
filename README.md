@@ -35,3 +35,11 @@ Hausaufgaben:
 
 * Pycharm für Windows [installieren](https://www.jetbrains.com/pycharm/)
 * Löse die [Python Aufgaben](Hausaufgaben/Python%20Hausaufgaben%201.md), entweder in PyCharm oder auf einer Online-Seite wie [Online GDB](https://www.onlinegdb.com/online_python_debugger) oder [ideone.com](https://www.ideone.com/)
+
+## 4. Nachmittag
+
+Da die Python Präsentation vom dritten Nachmittag noch nicht vollständig abgearbeitet war, haben wir zunächst diese fortgeführt. Danach sind wir mit [Python Erweitert](Präsentationen/Python Erweitert.pptx) genauer auf Objekte und Klassen eingegangen.
+
+Hausaufgaben:
+
+* aus der Präsentation: [Python Aufgaben zum Quader](Hausaufgaben/Python%20Hausaufgaben%202.md)
