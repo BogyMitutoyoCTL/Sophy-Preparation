@@ -43,3 +43,14 @@ Da die Python Präsentation vom dritten Nachmittag noch nicht vollständig abgea
 Hausaufgaben:
 
 * aus der Präsentation: [Python Aufgaben zum Quader](Hausaufgaben/Python%20Hausaufgaben%202.md)
+
+## 5. Nachmittag
+
+Für die Entwicklung unseres Programms möchten wir eine Versionskontrolle einsetzen, die uns dabei hilft
+
+* Änderungen nachzuvollziehen
+* Alte Versionen wieder herzustellen
+* Als "gut" befundene Stände zu kennzeichnen
+* Quellcode auszutauschen und zeitgleiche Änderungen zu entdecken
+
+Die [Präsentation zur Versionsverwaltung](Präsentationen/Versionskontrolle.pptx) erklärt die allgemeingültigen Grundlagen. Die Folgepräsentation [Git](Präsentationen/Git%20Grundlagen.pptx) geht auf eine bestimmte Versionskontrolle ein, die auch kostenlos von Github erhältlich ist.
