@@ -54,3 +54,7 @@ Für die Entwicklung unseres Programms möchten wir eine Versionskontrolle einse
 * Quellcode auszutauschen und zeitgleiche Änderungen zu entdecken
 
 Die [Präsentation zur Versionsverwaltung](Präsentationen/Versionskontrolle.pptx) erklärt die allgemeingültigen Grundlagen. Die Folgepräsentation [Git](Präsentationen/Git%20Grundlagen.pptx) geht auf eine bestimmte Versionskontrolle ein, die auch kostenlos von Github erhältlich ist.
+
+Hausaufgaben (freiwillig):
+
+* [Git für Windows](https://git-scm.com/download/win) herunterladen und installieren und die Git Präsentation nochmal durcharbeiten (siehe Übungs-Folien 32 bis 36)
