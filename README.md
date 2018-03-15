@@ -58,3 +58,21 @@ Die [Präsentation zur Versionsverwaltung](Präsentationen/Versionskontrolle.ppt
 Hausaufgaben (freiwillig):
 
 * [Git für Windows](https://git-scm.com/download/win) herunterladen und installieren und die Git Präsentation nochmal durcharbeiten (siehe Übungs-Folien 32 bis 36)
+
+## 6. Nachmittag
+
+Wir erklärten kurz die Vorgehensweise nach [Scrum](Präsentationen/Scrum.pptx). Dann kümmerten wir uns um das Sprint Planning. Wir definierten, was die Funktionen des Programms sein sollen und teilten diese Funktionen dann in Aufgaben auf. Die Aufgaben übernahmen wir ins das Taskboard. Dann haben wir die Aufgaben gezählt und das Burndown-Chart erstellt.
+
+Brainstorming zu möglichen Funktionen:
+
+![Ergebnis des Brainstormings](Präsentationen/Bilder/Brainstorming.jpg)
+
+Ein paar gute Ideen wie z.B. RFID Chips haben wir zurückgestellt, weil die Hardware noch nicht verfügbar ist o.ä. Diese Funktionen könnten in einem zukünftigen Sprint umgesetzt werden, wenn sich der Product Owner mehr Gedanken dazu gemacht hat und der Scrum Master dafür gesorgt hat, dass die nötige Ausrüstung zur Verfügung steht. Dass diese Aufgaben zurückgestellt werden ist keine Kritik an der Idee, sondern eine wirtschaftliche Entscheidung.
+
+Aus dem Brainstorming abgeleitete Aufgaben:
+
+![Taskboard mit Tasks](Präsentationen/Bilder/Taskboard.jpg)
+
+Wir haben 23 nötige Tasks identifiziert, damit das Projekt erfolgreich ist sowie 7 Tasks, die wir optional umsetzen können, falls noch Zeit ist. Beide Linien haben wir dann in das Burndown-Chart übernommen.
+
+![Burndown-Chart](Präsentationen/Bilder/Burndown-Chart.jpg)
